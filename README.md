@@ -1,7 +1,7 @@
 # CAD_Phase5
 
-                          `
-                          IBM Disaster Recovery
+                           
+                                                                        IBM Disaster Recovery
  Objective:
 To implement a comprehensive disaster recovery solution on IBM Cloud that safeguards our organization's critical IT systems, applications, and data against unforeseen events, enabling us to quickly recover and resume normal operations with minimal downtime and data loss. This project aims to establish a resilient infrastructure and effective recovery procedures that align with business continuity goals and compliance requirements.                           
 Problem Statement: Safeguard business operations with IBM Cloud Virtual Servers. Create a disaster recovery plan for an on-premises virtual machine, ensuring continuity in unforeseen events. Test and validate the recovery process to guarantee minimal downtime. Become the guardian of business continuity, securing the future of your organization!
